@@ -12,13 +12,14 @@ Esta es una API para gestionar tareas. Permite crear, obtener, actualizar y elim
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/iamsource2021/api-gestion-tareas.git
+   git clone https://github.com/iamsource2021/express-mysql-restapi.git
+
    ```
 
 2. Ve al directorio del proyecto:
 
    ```bash
-   cd api-gestion-tareas
+   cd express-mysql-restapi
 
    ```
 3. Instala las dependencias:
