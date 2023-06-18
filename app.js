@@ -10,9 +10,11 @@ app.use(cors());
 // Rutas
 const routerApidoc = require('./routes/apidocs');
 const routerTareas = require('./routes/tareas');
+const routeRules = require('./routes/rules');
 
 app.use('/', routerApidoc);
 app.use('/api/tareas', routerTareas);
+app.use('/api/rules',routeRules)
 
 // Inicia el servidor
 const port = process.env.PORT || 3000;
