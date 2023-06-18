@@ -5,8 +5,8 @@ const tareaController = require('./../controllers/tareaController');
 /**
  * @swagger
  * tags:
- *   name: Tareas
- *   description: Endpoints relacionados con las tareas
+ *   name: Reglas
+ *   description: Endpoints relacionados con las las reglas de negocio de tareas
  */
 
 /**
